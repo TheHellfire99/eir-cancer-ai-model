@@ -1,0 +1,9 @@
+# Object file
+*.o
+
+# Pyc files
+*.pyc
+
+# .env file
+.env
+
